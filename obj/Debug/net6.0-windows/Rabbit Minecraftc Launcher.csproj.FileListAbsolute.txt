@@ -1,0 +1,20 @@
+E:\Rabbit Minecraftc Launcher\bin\Debug\net6.0-windows\Rabbit Minecraftc Launcher.exe
+E:\Rabbit Minecraftc Launcher\bin\Debug\net6.0-windows\Rabbit Minecraftc Launcher.deps.json
+E:\Rabbit Minecraftc Launcher\bin\Debug\net6.0-windows\Rabbit Minecraftc Launcher.runtimeconfig.json
+E:\Rabbit Minecraftc Launcher\bin\Debug\net6.0-windows\Rabbit Minecraftc Launcher.dll
+E:\Rabbit Minecraftc Launcher\bin\Debug\net6.0-windows\Rabbit Minecraftc Launcher.pdb
+E:\Rabbit Minecraftc Launcher\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+E:\Rabbit Minecraftc Launcher\obj\Debug\net6.0-windows\Rabbit Minecraftc Launcher.csproj.AssemblyReference.cache
+E:\Rabbit Minecraftc Launcher\obj\Debug\net6.0-windows\Rabbit_Minecraftc_Launcher.Form1.resources
+E:\Rabbit Minecraftc Launcher\obj\Debug\net6.0-windows\Rabbit Minecraftc Launcher.csproj.GenerateResource.cache
+E:\Rabbit Minecraftc Launcher\obj\Debug\net6.0-windows\Rabbit Minecraftc Launcher.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rabbit Minecraftc Launcher\obj\Debug\net6.0-windows\Rabbit Minecraftc Launcher.AssemblyInfoInputs.cache
+E:\Rabbit Minecraftc Launcher\obj\Debug\net6.0-windows\Rabbit Minecraftc Launcher.AssemblyInfo.cs
+E:\Rabbit Minecraftc Launcher\obj\Debug\net6.0-windows\Rabbit Minecraftc Launcher.csproj.CoreCompileInputs.cache
+E:\Rabbit Minecraftc Launcher\obj\Debug\net6.0-windows\Rabbit Minecraftc Launcher.csproj.Fody.CopyLocal.cache
+E:\Rabbit Minecraftc Launcher\obj\Debug\net6.0-windows\Rabbit Minecraftc Launcher.csproj.CopyComplete
+E:\Rabbit Minecraftc Launcher\obj\Debug\net6.0-windows\Rabbit Minecraftc Launcher.dll
+E:\Rabbit Minecraftc Launcher\obj\Debug\net6.0-windows\refint\Rabbit Minecraftc Launcher.dll
+E:\Rabbit Minecraftc Launcher\obj\Debug\net6.0-windows\Rabbit Minecraftc Launcher.pdb
+E:\Rabbit Minecraftc Launcher\obj\Debug\net6.0-windows\Rabbit Minecraftc Launcher.genruntimeconfig.cache
+E:\Rabbit Minecraftc Launcher\obj\Debug\net6.0-windows\ref\Rabbit Minecraftc Launcher.dll
